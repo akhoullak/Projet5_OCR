@@ -17,6 +17,8 @@ piquantes préférées et de liker ou disliker les sauces que d'autres partagent
 
 
 Compétences évaluées
-Mettre en œuvre des opérations CRUD de manière sécurisée
-Implémenter un modèle logique de données conformément à la réglementation
-Stocker des données de manière sécurisée
+Mettre en œuvre des opérations CRUD de manière sécurisée.
+
+Implémenter un modèle logique de données conformément à la réglementation.
+
+Stocker des données de manière sécurisée.
